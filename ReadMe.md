@@ -1,5 +1,4 @@
-# Accessibility in React --- Quick Practical Notes
-
+# Accessibility in React 
 Accessibility helps **visually impaired**, **hearing impaired**, and
 **mobility impaired** users.
 React + semantic HTML + ARIA = **Inclusive UI**.
